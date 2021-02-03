@@ -1,7 +1,11 @@
-1.14.0+66
+1.15.0+68
 
-• add mod JEI
+• add mod Asgard Shield Reloaded
+• add mod Collective
 
-• add config JEI
+• add config Collective
 
-• update mod Spiders Produce Web
+• remove mod Giant Swords Mod
+• remove mod Instant Drown
+
+• remove config Instant Drown
