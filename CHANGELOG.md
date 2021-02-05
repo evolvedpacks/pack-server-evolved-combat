@@ -1,11 +1,10 @@
-1.15.0+68
+1.16.0+70
 
-• add mod Asgard Shield Reloaded
-• add mod Collective
+• add mod Instant Drown
 
-• add config Collective
+• add config Instant Drown
 
-• remove mod Giant Swords Mod
-• remove mod Instant Drown
+• update mod Collective
 
-• remove config Instant Drown
+• remove mod Clumps
+
