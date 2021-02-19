@@ -84,7 +84,6 @@ minecraft:ender_crystal
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
-clumps:xp_orb_big
 dimdoors:mob_monolith
 multimob:dummy
 netherhexedkingdommod:nether_damned_guard
@@ -293,7 +292,6 @@ tconstruct:fancy_frame
 tconstruct:throwball
 chococraft:chocobo
 comforts:_entity_rest
-hunterillager:hunter_illager
 mirageorb:playerghost
 moremystcraft:maintainer_suit
 moremystcraft:potion_dummy
