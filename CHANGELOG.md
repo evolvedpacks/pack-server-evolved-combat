@@ -1,3 +1,4 @@
-1.18.0+76
+1.19.0+78
 
-• update mod Magic Staffs
+• update mod Collective
+• update mod Ore Stone Variants
