@@ -1,0 +1,31 @@
+name: CD Master
+
+on:
+  push:
+    branches:
+    - 'master'
+
+jobs:
+
+  build-image:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Repository Checkout
+      uses: actions/checkout@v2
+      with:
+        lfs: true
+
+    - name: Docker Build
+      run: |
+        docker build . \
+          --build-arg VERSION=$(git describe --tags --abbrev=0) \
+          -t evolvedpacks/evc:latest \
+          -f .docker/Dockerfile
+
+    - name: Docker Push
+      run: |
+        docker login -u zekro -p ${{ secrets.DOCKER_PASSWORD }}
+        docker push evolvedpacks/evc:latest
