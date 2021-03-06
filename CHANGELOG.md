@@ -1,12 +1,23 @@
-1.21.0+84
+1.22.0+88
 
-• add mod Bloodmoon
-• add mod Spark
+• add mod Basic Metals
+• add mod End Ores
+• add mod Hot Swap
+• add mod Reforged
 
-• add config Bloodmoon
+• add config End Ores
+• add config Reforged
 
-• update mod Collective
+• update mod Mutant Beasts
 
-• remove mod Nyx
+• update config Falling Tree
+• update config Infernal Mobs
+• update config Multi Mob
 
-• remove config Nyx
+• remove mod Advanced Alloy Ingot
+• remove mod Biome Specific Dungeons
+• remove mod Moar Tinkers
+• remove mod Quick Store
+
+• remove config Biome Specific Dungeons
+• remove config Moar Tinkers
