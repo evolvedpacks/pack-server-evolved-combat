@@ -1,8 +1,4 @@
-1.23.0+90
-
-• update mod Collective
-• update mod Magic Staffs
+1.24.0+92
 
 • update config Infernal Mobs
-• update config Multi Mob
-• update config The Summoner
+• update config Progressive Bosses
