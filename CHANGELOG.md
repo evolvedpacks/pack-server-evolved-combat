@@ -1,4 +1,12 @@
-1.24.0+92
+1.25.0+94
 
-• update config Infernal Mobs
-• update config Progressive Bosses
+• update mod Collective
+• update mod Condition Overload
+• update mod Magic Staffs
+• update mod Mystical Lib
+• update mod Ore Stone Variants
+• update mod Total Tinkers
+
+• update config Condition Overload
+• update config Magic Staffs
+• update config Ore Stone Variants
