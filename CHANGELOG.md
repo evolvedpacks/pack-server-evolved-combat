@@ -1,12 +1,15 @@
-1.25.0+94
+1.26.0+96
+
+• add mod Garbage Bins
+• add mod Portable Trash Can
 
 • update mod Collective
-• update mod Condition Overload
-• update mod Magic Staffs
-• update mod Mystical Lib
-• update mod Ore Stone Variants
-• update mod Total Tinkers
+• update mod Tinkers' Reforged
 
-• update config Condition Overload
-• update config Magic Staffs
-• update config Ore Stone Variants
+• update config Tinkers' Reforged
+
+• remove mod Bountiful
+• remove mod Reforged
+
+• remove config Bountiful
+• remove config Reforged
