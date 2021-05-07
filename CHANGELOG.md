@@ -1,6 +1,3 @@
-1.28.0+100
+1.29.0+102
 
-• update mod Collective
-• update mod The Aether
-
-• update config The Aether
+• update mod JAOPCA
