@@ -1,9 +1,7 @@
-1.30.0+104
+1.31.0+106
 
-• update mod Foam Fix
-• update mod Ore Stone Variants
-• update mod Plus Tinkers' Construct
+• update mod ATOP
+• update mod Hammer Core
+• update mod Nether Hexed Kingdom
 
-• update config Foam Fix
-• update config Ore Stone Variants
-• update config Plus Tinkers' Construct
+• update config Nethere Hexed Kingdom
