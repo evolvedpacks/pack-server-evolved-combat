@@ -1,7 +1,3 @@
-1.31.0+106
+1.32.0+108
 
-• update mod ATOP
 • update mod Hammer Core
-• update mod Nether Hexed Kingdom
-
-• update config Nethere Hexed Kingdom
