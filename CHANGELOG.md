@@ -1,3 +1,3 @@
-1.32.0+108
+1.33.0+110
 
-• update mod Hammer Core
+• update config Ore Stone Variants
