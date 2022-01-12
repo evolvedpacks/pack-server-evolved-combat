@@ -1,6 +1,8 @@
-1.37.0+120
+1.38.0+122
 
-• update dependency Forge
+• add mod Reach Fix
 
-• update mod Biomes O Plenty
+• update mod Chocolate Quest Repoured
 • update mod Gecko Lib
+
+• update config Chocolate Quest Repoured
